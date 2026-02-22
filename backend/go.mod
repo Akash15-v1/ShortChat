@@ -1,4 +1,4 @@
-module github.com/TutorialEdge/realtime-chat-go-react
+module github.com/Akash15-v1/ShortCha
 
 go 1.25.3
 
